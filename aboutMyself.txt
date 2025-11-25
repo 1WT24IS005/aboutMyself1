@@ -1,8 +1,17 @@
 Title: Ms
+<<<<<<< HEAD
 Full Name: Likhitha
 USN: 1WT24IS005
 Semester:Third
 Branch: Information science
 Year of Admission:2024
+=======
+Full Nmae:Likhitha M
+USN: 1WT24IS005
+Semester: Third
+Section: A
+Branch: Information science
+Year of Admission: 2024
+>>>>>>> feature-branch
 College Name: GITW
 
