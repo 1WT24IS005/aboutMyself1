@@ -6,3 +6,9 @@ Section: A
 Branch: Information science
 Year of Admission:2024
 College Name: GITW
+<<<<<<< HEAD
+=======
+SSLC: Gurukula vidya samasthe
+PUC: St'Annes pu college
+UG Degree: Information science & Engineering
+>>>>>>> feature-branch
