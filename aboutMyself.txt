@@ -6,4 +6,6 @@ Section: A
 Branch: Information science
 Year of Admission: 2024
 College Name: GITW
-
+UG Degree: Information science Engineering
+PG Degree: Manufacturing science & Engineering
+phD Degree: Materials science
