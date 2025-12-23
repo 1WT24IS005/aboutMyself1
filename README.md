@@ -4,9 +4,6 @@ Full Name:Likhitha
 USN: 1WT24IS005
 Semester: Third
 Section: A
-Subject Name: Project Management with GIT
-Subject Code:BCS358C
-Academic Year: 2025-26
-Mobile No: 9846382694
-Email:likhitham@gmail.com
-My Date of Joining to GITW: 15th Sep-2024
+Branch : Information Science
+Year of Admission : 2024
+College Name : GITW
