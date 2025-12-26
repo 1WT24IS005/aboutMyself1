@@ -4,9 +4,37 @@ Full Name:Likhitha
 USN: 1WT24IS005
 Semester: Third
 Section: A
+<<<<<<< HEAD
+Branch : Information Science
+Year of Admission : 2024
+College Name : GITW
+=======
 Subject Name: Project Management with GIT
 Subject Code:BCS358C
 Academic Year: 2025-26
 Mobile No: 9846382694
-Email:likhitham@gmail.com
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+=======
+=======
+>>>>>>> parent of 2b326e9 (cherry-picking done successfully)
+=======
 
+>>>>>>> 9125622 (Removed Email successfully from README.md files)
+
+<<<<<<< HEAD
+>>>>>>> 9125622 (Removed Email successfully from README.md files)
+
+>>>>>>> 9125622 (Removed Email successfully from README.md files)
+
+>>>>>>> 9125622 (Removed Email successfully from README.md files)
+
+=======
+>>>>>>> parent of 2b326e9 (cherry-picking done successfully)
+
+>>>>>>> 9125622 (Removed Email successfully from README.md files)

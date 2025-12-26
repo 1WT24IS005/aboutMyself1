@@ -9,4 +9,3 @@ College Name: GITW
 SSLC: Gurukula vidya samasthe
 PUC: St'Annes pu college
 UG Degree: Information science & Engineering
-
